@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.myip.com/api-docs/
 common:
+  - type: DomainSecurity
+    url: security/my-ip-domain-security.yml
   - type: Website
     url: https://www.myip.com/api-docs/
   - type: PublicAPIsListing
