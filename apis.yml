@@ -39,7 +39,6 @@ apis:
   - name: MY IP
     description: "Get IP address information"
     humanURL: https://www.myip.com/api-docs/
-    baseURL: https://www.myip.com/api-docs/
     tags:
       - Development
     properties:
